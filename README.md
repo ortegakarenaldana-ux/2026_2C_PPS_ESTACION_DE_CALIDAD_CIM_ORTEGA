@@ -205,10 +205,15 @@ Este proyecto fue desarrollado sobre equipamiento físico del Laboratorio CIM; n
 ---
 
 ## Fotos / Videos
+
+- Estación SCARA → Anexo 1
+- Bases de trabajo → Anexo 2
+- Programa principal RUT → Anexo 3
+- Posición del recipiente para R3 y R4 → Anexo 4
+- Dispensador de bolillas → Anexo 5
 - Foto 1 → `MULTIMEDIA/[archivo]`
 - Foto 2 → `MULTIMEDIA/[archivo]`
 - Video demo → `MULTIMEDIA/[archivo]` o [link]
-
 ---
 
 ## Estructura del repositorio
@@ -217,12 +222,7 @@ Este proyecto fue desarrollado sobre equipamiento físico del Laboratorio CIM; n
 - `PLANOS/` — Esquemáticos y diagramas.
 - `DATASHEET/` — Hojas de datos y especificaciones.
 - `INFORMES/` — Informes, Gantt, manuales, PDFs.
-- Estación SCARA → fotografía del Anexo 1, página 22 del informe.
-- Bases de trabajo → fotografías del Anexo 2, página 23 del informe.
-- Programa principal RUT → captura del Anexo 3, página 24 del informe.
-- Posición del recipiente para R3 y R4 → fotografía del Anexo 4, página 24 del informe.
-- Dispensador de bolillas → fotografías del Anexo 5, página 25 del informe.
-- Video demo →
+
 ---
 
 ## Autor
