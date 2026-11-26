@@ -205,15 +205,16 @@ Este proyecto fue desarrollado sobre equipamiento físico del Laboratorio CIM; n
 ---
 
 ## Fotos / Videos
+<img src="Multimedia (Imágenes y videos)/Anexo1_Estación_SCARA.png" alt="Estación SCARA" width="600">
+<img src="Multimedia (Imágenes y videos)/Anexo2_Bases_de_trabajo.png" alt="Bases de trabajo" width="600">
+<img src="Multimedia (Imágenes y videos)/Anexo3_Programa_principal.png" alt="Programa principal" width="600">
+<img src="Multimedia (Imágenes y videos)/Anexo4_Posición_del_recipiente_rutinas_R3_R4.png" alt="Posición del recipiente rutinas R3/R4" width="600">
+<img src="Multimedia (Imágenes y videos)/Anexo5_Dispensador_de_bolitas.png" alt="Dispensador de bolitas" width="600">
 
-- Estación SCARA → Anexo 1
-- Bases de trabajo → Anexo 2
-- Programa principal RUT → Anexo 3
-- Posición del recipiente para R3 y R4 → Anexo 4
-- Dispensador de bolillas → Anexo 5
-- Foto 1 → `MULTIMEDIA/[archivo]`
-- Foto 2 → `MULTIMEDIA/[archivo]`
-- Video demo → `MULTIMEDIA/[archivo]` o [link]
+<video src="Multimedia (Imágenes y videos)/Programa_R1.mp4" controls width="600"></video>
+<video src="Multimedia (Imágenes y videos)/Programa_R2.mp4" controls width="600"></video>
+<video src="Multimedia (Imágenes y videos)/Programa_R3_y_R4.mp4" controls width="600"></video>
+
 ---
 
 ## Estructura del repositorio
