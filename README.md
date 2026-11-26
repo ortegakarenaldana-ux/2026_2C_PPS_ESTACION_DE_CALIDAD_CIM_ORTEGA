@@ -218,10 +218,7 @@ Este proyecto fue desarrollado sobre equipamiento físico del Laboratorio CIM; n
 ---
 
 ## Estructura del repositorio
-- `CODIGO/` — Código fuente del proyecto.
 - `MULTIMEDIA/` — Imágenes y videos.
-- `PLANOS/` — Esquemáticos y diagramas.
-- `DATASHEET/` — Hojas de datos y especificaciones.
 - `INFORMES/` — Informes, Gantt, manuales, PDFs.
 
 ---
@@ -236,8 +233,6 @@ uso académico
 
 ---
 
-## About (descripción corta del repositorio)
-
-Usar este texto (o similar) en el campo **About** de GitHub:
+## About 
 
 **PPS — ESTACIÓN DE CALIDAD - ROBOT SCARA - CIM — FI-UNLZ — 2026 2C — ORTEGA, Karen**
