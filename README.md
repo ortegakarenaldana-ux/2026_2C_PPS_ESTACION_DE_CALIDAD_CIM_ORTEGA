@@ -38,7 +38,6 @@ Adecuar y programar la estación para que el robot SCARA pueda recibir, traslada
 - [Instrucciones de uso](#instrucciones-de-uso)
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 - [Listado de componentes](#listado-de-componentes)
-- [Esquemáticos / Planos](#esquemáticos--planos)
 - [Fotos / Videos](#fotos--videos)
 - [Estructura del repositorio](#estructura-del-repositorio)
 - [Autor](#autor)
@@ -195,15 +194,13 @@ Este proyecto fue desarrollado sobre equipamiento físico del Laboratorio CIM; n
 
 | Componente | Cantidad | Modelo / Especificación | Función |
 |---|---:|---|---|
-| [Componente 1] | [1] | [Modelo] | [Función] |
-| [Componente 2] | [2] | [Modelo] | [Función] |
-| [Componente 3] | [1] | [Modelo] | [Función] |
+| Robot industrial SCARA | 1 | 4 ejes | Manipulación de bandejas y recipientes |
+| Robot cartesiano | 1 | 2 ejes | 	Posicionamiento de bandejas bajo la cámara |
+| Bases porta-bandejas | 6 posiciones | Cuatro bases nuevas impresas en 3D, más las dos existentes en la cinta |Apoyo y almacenamiento de bandejas |
+| Cámara | 1 | Analógica; fuera de funcionamiento durante la práctica | Ubicación de referencia para la simulación de inspección |
+| Dispensador de bolillas | 1 | Accionado por motor | Dosificación de bolillas |
+| Gripper | 1 | Integrado al SCARA | Sujeción y liberación de bandejas y recipientes |
 
----
-
-## Esquemáticos / Planos
-- [Plano/Esquemático 1] → `PLANOS/[archivo]`
-- [Plano/Esquemático 2] → `PLANOS/[archivo]`
 
 ---
 
@@ -220,7 +217,12 @@ Este proyecto fue desarrollado sobre equipamiento físico del Laboratorio CIM; n
 - `PLANOS/` — Esquemáticos y diagramas.
 - `DATASHEET/` — Hojas de datos y especificaciones.
 - `INFORMES/` — Informes, Gantt, manuales, PDFs.
-
+- Estación SCARA → fotografía del Anexo 1, página 22 del informe.
+- Bases de trabajo → fotografías del Anexo 2, página 23 del informe.
+- Programa principal RUT → captura del Anexo 3, página 24 del informe.
+- Posición del recipiente para R3 y R4 → fotografía del Anexo 4, página 24 del informe.
+- Dispensador de bolillas → fotografías del Anexo 5, página 25 del informe.
+- Video demo →
 ---
 
 ## Autor
@@ -237,4 +239,4 @@ uso académico
 
 Usar este texto (o similar) en el campo **About** de GitHub:
 
-**[PPS | PF] — [Proyecto] — FI-UNLZ — [2026] [1C|2C] — [Apellido1, Apellido2]**
+**PPS — ESTACIÓN DE CALIDAD - ROBOT SCARA - CIM — FI-UNLZ — 2026 2C — ORTEGA, Karen**
