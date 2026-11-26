@@ -218,8 +218,8 @@ Este proyecto fue desarrollado sobre equipamiento físico del Laboratorio CIM; n
 ---
 
 ## Estructura del repositorio
-- `MULTIMEDIA/` — Imágenes y videos.
-- `INFORMES/` — Informes, Gantt, manuales, PDFs.
+- `MULTIMEDIA/` 
+- `INFORME/` 
 
 ---
 
